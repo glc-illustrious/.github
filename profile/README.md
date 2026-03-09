@@ -2,7 +2,7 @@
 
 Welkom bij de GitHub-organisatie van zweefvliegclub **GLC Illustrious**.
 
-Hier beheren we de technische projecten van onze club — van veldinfrastructuur tot vliegveiligheid.
+Hier beheren we de technische projecten van onze club.
 
 ## Projecten
 
